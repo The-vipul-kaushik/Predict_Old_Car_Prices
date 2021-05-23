@@ -15,3 +15,7 @@ Supervised ML models are used here such as linear regression, multiple regressio
 ## 2.
 ![Capture2](https://user-images.githubusercontent.com/51953424/119262910-80ad6f00-bbfa-11eb-8281-0dbb6ef225f9.PNG)
 
+## Steps to Use
+1) Open the file in Jupyter Notebook.
+2) Run the file
+3) Predict your car price
